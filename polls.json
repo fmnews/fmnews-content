@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-31T10:00:00Z",
+  "polls": [
+    {
+      "id": "p1",
+      "question": {
+        "hi": "क्या आपको FM News का नया ऐप पसंद आया?",
+        "en": "Do you like the new FM News app?"
+      },
+      "options": [
+        {"id": "yes", "label": {"hi": "बिल्कुल", "en": "Absolutely"}, "votes": 142},
+        {"id": "ok", "label": {"hi": "ठीक-ठाक", "en": "It's okay"}, "votes": 38},
+        {"id": "no", "label": {"hi": "और बेहतर हो सकता है", "en": "Could be better"}, "votes": 12}
+      ],
+      "closesAt": "2026-12-31T23:59:59Z"
+    }
+  ]
+}
