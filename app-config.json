@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-30T10:00:00Z",
+  "minSupportedVersionCode": 1,
+  "latestVersionCode": 1,
+  "forceUpdate": false,
+  "maintenanceMode": false,
+  "maintenanceMessage": {
+    "hi": "ऐप कुछ देर के लिए अनुपलब्ध है। कृपया बाद में प्रयास करें।",
+    "en": "The app is temporarily unavailable. Please try again later."
+  },
+  "features": {
+    "showBreakingTicker": true,
+    "showFeaturedBanner": true,
+    "showTwitterCards": true,
+    "showFacebookPhotos": true,
+    "showShorts": true,
+    "showVideos": true,
+    "showEpaper": true,
+    "adsEnabled": false
+  },
+  "youtube": {
+    "channelHandle": "@fmnewsofficial",
+    "channelId": ""
+  },
+  "social": {
+    "twitter": "FMNewsLive",
+    "instagram": "fmnewsofficial",
+    "facebook": "fmnewz"
+  },
+  "support": {
+    "email": "contact@thefmnews.in",
+    "whatsapp": ""
+  }
+}
