@@ -1,11 +1,4 @@
 {
-  "id": "t_<timestamp>",
-  "text": "<tweet text>",
-  "lang": "hi",
-  "createdAt": "<ISO date>",
-  "link": "<X URL>"
-}
-{
   "version": 1,
   "updatedAt": "2026-05-30T18:30:00Z",
   "items": [
