@@ -1,5 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T10:00:00Z",
-  "items": []
+  "updatedAt": "2026-05-30T18:30:00Z",
+  "items": [
+    {
+      "id": "t_demo_001",
+      "text": "ब्रेकिंग: कानपुर में बार काउंसिल चुनाव, अनुराग पाण्डेय सबसे आगे। पढ़ें पूरी रिपोर्ट 👇",
+      "lang": "hi",
+      "createdAt": "2026-05-30T18:00:00Z",
+      "link": "https://x.com/FMNewsLive"
+    },
+    {
+      "id": "t_demo_002",
+      "text": "FM News का नया ऐप अब Play Store पर उपलब्ध। डाउनलोड करें और सबसे पहले पाएं ताज़ा खबरें ⚡",
+      "lang": "both",
+      "createdAt": "2026-05-30T17:30:00Z",
+      "link": "https://x.com/FMNewsLive"
+    }
+  ]
 }
