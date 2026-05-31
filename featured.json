@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T10:00:00Z",
+  "updatedAt": "2026-05-31T10:00:00Z",
   "items": [
     {
-      "id": "feat_demo_001",
+      "id": "feat_001",
       "lang": "both",
       "type": "external",
       "title": {
@@ -11,15 +11,12 @@
         "en": "Stay connected with FM News"
       },
       "subtitle": {
-        "hi": "ताज़ा खबरें, वीडियो और शॉर्ट्स — एक ही ऐप में",
-        "en": "Latest news, videos and shorts — all in one app"
+        "hi": "ताज़ा खबरें — एक tap पर",
+        "en": "Latest news — one tap away"
       },
-      "imageUrl": "https://www.thefmnews.in/wp-content/uploads/2026/05/fmnews-banner.jpg",
+      "imageUrl": "https://www.thefmnews.in/wp-content/uploads/2026/05/banner.jpg",
       "link": "https://www.thefmnews.in",
-      "ctaLabel": {
-        "hi": "अभी देखें",
-        "en": "Watch now"
-      },
+      "ctaLabel": {"hi": "अभी देखें", "en": "Watch now"},
       "expiresAt": "2026-12-31T23:59:59Z"
     }
   ]
