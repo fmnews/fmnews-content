@@ -1,17 +1,24 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T10:00:00Z",
+  "updatedAt": "2026-05-31T10:00:00Z",
   "items": [
     {
-      "id": "br_demo_001",
+      "id": "br_001",
       "lang": "both",
       "text": {
-        "hi": "FM News ऐप का नया अंदाज़ — अब डाउनलोड करें",
-        "en": "The new Taasu app is here — download now"
+        "hi": "ब्रेकिंग: कानपुर में बड़ा हादसा, 5 की मौत",
+        "en": "Breaking: Major accident in Kanpur, 5 dead"
       },
-      "link": "https://www.thefmnews.in",
-      "priority": 1,
-      "expiresAt": "2026-12-31T23:59:59Z"
+      "link": "https://www.thefmnews.in/article-url",
+      "priority": 10,
+      "expiresAt": "2026-06-01T23:59:59Z"
+    },
+    {
+      "id": "br_002",
+      "lang": "hi",
+      "text": {"hi": "योगी सरकार का बड़ा फैसला"},
+      "link": "https://www.thefmnews.in/yogi-news",
+      "priority": 5
     }
   ]
 }
