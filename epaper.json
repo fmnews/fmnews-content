@@ -1,5 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T10:00:00Z",
-  "issues": []
+  "updatedAt": "2026-05-31T06:00:00Z",
+  "issues": [
+    {
+      "id": "ep_2026-05-31",
+      "date": "2026-05-31",
+      "pdfUrl": "https://www.thefmnews.in/epaper/2026-05-31.pdf",
+      "thumbnailUrl": "https://www.thefmnews.in/epaper/2026-05-31-thumb.jpg",
+      "city": "कानपुर"
+    },
+    {
+      "id": "ep_2026-05-30",
+      "date": "2026-05-30",
+      "pdfUrl": "https://www.thefmnews.in/epaper/2026-05-30.pdf",
+      "thumbnailUrl": "https://www.thefmnews.in/epaper/2026-05-30-thumb.jpg",
+      "city": "कानपुर"
+    }
+  ]
 }
