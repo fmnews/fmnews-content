@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T10:00:00Z",
+  "updatedAt": "2026-05-31T08:00:00Z",
   "polls": [
     {
-      "id": "p1",
+      "id": "p_2026-05-31",
       "question": {
-        "hi": "क्या आपको Taasu का नया ऐप पसंद आया?",
-        "en": "Do you like the new FM News app?"
+        "hi": "क्या योगी सरकार का नया फैसला सही है?",
+        "en": "Is Yogi government's new decision right?"
       },
       "options": [
-        {"id": "yes", "label": {"hi": "बिल्कुल", "en": "Absolutely"}, "votes": 142},
-        {"id": "ok", "label": {"hi": "ठीक-ठाक", "en": "It's okay"}, "votes": 38},
-        {"id": "no", "label": {"hi": "और बेहतर हो सकता है", "en": "Could be better"}, "votes": 12}
+        {"id": "yes", "label": {"hi": "हाँ", "en": "Yes"}, "votes": 0},
+        {"id": "no", "label": {"hi": "नहीं", "en": "No"}, "votes": 0},
+        {"id": "neutral", "label": {"hi": "पता नहीं", "en": "Don't know"}, "votes": 0}
       ],
-      "closesAt": "2026-12-31T23:59:59Z"
+      "closesAt": "2026-06-01T23:59:59Z"
     }
   ]
 }
