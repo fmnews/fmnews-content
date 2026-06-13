@@ -6,18 +6,18 @@
       "id": "br_001",
       "lang": "both",
       "text": {
-        "hi": "ब्रेकिंग: कानपुर में बड़ा हादसा, 5 की मौत",
+        "hi": "सोशल मीडिया पर बढ़ती राजनीतिक लड़ाई: लोकतंत्र के लिए खतरा?",
         "en": "Breaking: Major accident in Kanpur, 5 dead"
       },
-      "link": "https://www.thefmnews.in/article-url",
+      "link": "https://www.thefmnews.in/national/social-media-par-badhti-rajnaitik",
       "priority": 10,
       "expiresAt": "2026-06-01T23:59:59Z"
     },
     {
       "id": "br_002",
       "lang": "hi",
-      "text": {"hi": "योगी सरकार का बड़ा फैसला"},
-      "link": "https://www.thefmnews.in/yogi-news",
+      "text": {"hi": "योगी सरकार का बड़ा फैसला - Watch Live"},
+      "link": "https://www.youtube.com/watch?v=C_v7SkIIcNs",
       "priority": 5
     }
   ]
