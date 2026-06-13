@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T08:00:00Z",
+  "updatedAt": "2026-06-13T08:00:00Z",
   "polls": [
     {
-      "id": "p_2026-05-31",
+      "id": "p_2026-06-13",
       "question": {
-        "hi": "क्या योगी सरकार का नया फैसला सही है?",
-        "en": "Is Yogi government's new decision right?"
+        "hi": "क्देवेंद्र फडणवीस का कहना है कि अगर टीएमसी और एनसीपी (एसपी) का कांग्रेस में विलय हो जाता है तो भाजपा को और अधिक राजनीतिक स्थान मिलेगा।",
+        "en": "Devendra Fadnavis says that BJP will get more political space if TMC, NCP(SP) merge with Congress."
       },
       "options": [
         {"id": "yes", "label": {"hi": "हाँ", "en": "Yes"}, "votes": 0},
         {"id": "no", "label": {"hi": "नहीं", "en": "No"}, "votes": 0},
         {"id": "neutral", "label": {"hi": "पता नहीं", "en": "Don't know"}, "votes": 0}
       ],
-      "closesAt": "2026-06-01T23:59:59Z"
+      "closesAt": "2026-06-17T23:59:59Z"
     }
   ]
 }
